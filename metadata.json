@@ -1,0 +1,6 @@
+{
+  "name": "123apps Studio - Bộ Công Cụ Media & PDF",
+  "description": "Bộ tiện ích trực tuyến chỉnh sửa video, âm thanh, PDF, chuyển đổi định dạng và nén file dung lượng lớn siêu tốc.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
